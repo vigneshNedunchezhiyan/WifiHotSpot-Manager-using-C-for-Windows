@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1454777693 source:i:\wi-fihotspot\wi-fihotspot\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
