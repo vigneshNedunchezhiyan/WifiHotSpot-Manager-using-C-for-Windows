@@ -11,4 +11,4 @@ No need for Windows 10, Since its easier to create wifi hotspot and manage in it
 
 Any Further development to the code is appreciable!
 References:
-http://www.mypcethics.tk/2016/04/how-to-create-wifi-hotspot-in-windows-and-solve-no-internet-error-on-mobile-device.html
+http://www.mypcethics.in/2016/04/how-to-create-wifi-hotspot-in-windows-and-solve-no-internet-error-on-mobile-device.html
